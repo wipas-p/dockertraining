@@ -1,7 +1,6 @@
 # Docker Training
-<br>
 https://github.com/wipas-p/dockertraining <br>
-
+<br>
 Docker command <br>
 ============================ <br>
 docker build -t {image} .  <br>
